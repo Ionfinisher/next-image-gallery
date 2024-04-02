@@ -1,5 +1,7 @@
 # NEXT IMAGE GALLERY
 
+[Demo video](demo.mov)
+
 A minimalistic image gallery where you can browse, search and open images from the Pexels API
 
 ## Get going
