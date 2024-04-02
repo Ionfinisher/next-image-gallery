@@ -1,6 +1,8 @@
 # NEXT IMAGE GALLERY
 
-[Demo video](demo.mov)
+![Screen shot 1 of the demo](shot-1.png)
+
+![Screen shot 2 of the demo](shot-2.png)
 
 A minimalistic image gallery where you can browse, search and open images from the Pexels API
 
