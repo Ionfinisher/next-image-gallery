@@ -31,5 +31,5 @@ npm run dev
 Next.js
 Typescript
 Zod
-Tailwind
+Tailwind CSS
 Pexels APi
